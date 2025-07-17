@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=EcoCrossing
+Comment=Juego EcoCrossing
+Exec=bash -c 'cd /home/iadev/Documentos/Programacion/Proyectos/Proyecto-POO/EcoCrossing && if ! command -v mvn &> /dev/null; then echo "Instalando Maven..." && sudo apt-get update && sudo apt-get install -y maven; fi && echo "Compilando el juego..." && mvn clean package && echo "Iniciando el juego..." && java -jar target/EcoCrossing-1.0-SNAPSHOT-jar-with-dependencies.jar; read -p "Presiona Enter para cerrar..."'
+Terminal=true
+Type=Application
+Categories=Game;
+Icon=applications-games 
