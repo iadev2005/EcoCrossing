@@ -32,6 +32,9 @@
 - El primer jugador debe iniciar como servidor
 - Los demás jugadores deben conectarse usando la IP del servidor
 
+## Video Gameplay
+👇 ¡Haz clic en la imagen para ver el video! 👇
+
 [![Gameplay](https://img.youtube.com/vi/eK2xFxtNus8/0.jpg)](https://www.youtube.com/watch?v=eK2xFxtNus8)
 
 ## Características Técnicas
